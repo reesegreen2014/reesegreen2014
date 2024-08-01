@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%E2%9C%85-blue)
 ![Cypress](https://img.shields.io/badge/Cypress-%E2%9C%85-lightgrey)
 
-Welcome to my GitHub profile! I'm Reese, a passionate Front-End Engineer who loves turning complex problems into delightful user experiences. With a background in operations management and program management, I bring a unique perspective to my projects, combining technical skills with strategic thinking.
+Welcome to my GitHub profile! I'm Reese, a passionate Front-End Engineer who loves turning complex problems into delightful user experiences. With a background in operations management, project management and people management, I bring a unique perspective to my projects, combining technical skills with strategic thinking.
 
 ## 🚀 Technologies & Tools
 
